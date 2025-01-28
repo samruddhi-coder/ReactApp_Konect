@@ -60,7 +60,7 @@ export default function About() {
                 <p>
                   Establishing a unique visual identity and consistent messaging
                   to ensure the website reflects the company's values and
-                  resonates with its target audience.
+                  resonates with its target audiences.
                 </p>
               </div>
             </div>
