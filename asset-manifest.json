@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactApp_Konect/static/css/main.60e1b9f1.css",
+    "main.js": "/ReactApp_Konect/static/js/main.5a4ebd08.js",
+    "static/js/488.6b784e40.chunk.js": "/ReactApp_Konect/static/js/488.6b784e40.chunk.js",
+    "static/media/confimg.jpg": "/ReactApp_Konect/static/media/confimg.976a0acb050619bbfb3f.jpg",
+    "static/media/conf1.jpg": "/ReactApp_Konect/static/media/conf1.df210a46d0f0b66f3d4a.jpg",
+    "static/media/eventt.jpg": "/ReactApp_Konect/static/media/eventt.f3b563d90dd4c04637c2.jpg",
+    "static/media/intel.jpg": "/ReactApp_Konect/static/media/intel.d5f0049cb1605f731b67.jpg",
+    "static/media/trouble.jpg": "/ReactApp_Konect/static/media/trouble.204d3910691bea89a46a.jpg",
+    "static/media/bulb.jpg": "/ReactApp_Konect/static/media/bulb.8ec9886ad5cbe5f380f7.jpg",
+    "static/media/contact.jpg": "/ReactApp_Konect/static/media/contact.a66df18e2f821cc6f477.jpg",
+    "static/media/about_img.jpg": "/ReactApp_Konect/static/media/about_img.f1a87c36ce1dc831bfd3.jpg",
+    "static/media/AI-thinking.jpg": "/ReactApp_Konect/static/media/AI-thinking.41308ff1dbb00039eb7f.jpg",
+    "static/media/banner-img.jpg": "/ReactApp_Konect/static/media/banner-img.d7dfc29a62eeb89d5381.jpg",
+    "static/media/banner.png": "/ReactApp_Konect/static/media/banner.908f1105e63bdffa53c0.png",
+    "static/media/layer.png": "/ReactApp_Konect/static/media/layer.6f099e109a8bd549cd14.png",
+    "index.html": "/ReactApp_Konect/index.html",
+    "main.60e1b9f1.css.map": "/ReactApp_Konect/static/css/main.60e1b9f1.css.map",
+    "main.5a4ebd08.js.map": "/ReactApp_Konect/static/js/main.5a4ebd08.js.map",
+    "488.6b784e40.chunk.js.map": "/ReactApp_Konect/static/js/488.6b784e40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e1b9f1.css",
+    "static/js/main.5a4ebd08.js"
+  ]
+}
