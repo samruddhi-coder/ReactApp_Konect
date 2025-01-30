@@ -134,23 +134,16 @@
       }
     }
     .baner_style_2 {
-      display: flex;
-      align-items: center;
-      box-shadow: 0 1rem 3rem rgb(0 0 0 / 12%);
-      background-color: var(--bg-color);
-      position: absolute;
       right: 12px;
-      bottom: -28px;
-      padding: 15px 20px;
-      border-radius: 8px;
-      width: max-content;
-      height: max-content;
-      top: -68px;
+      top: -70px;
 
       & svg {
         & path {
           fill: var(--primary-color);
         }
+      }
+      @media (max-width: 992px) {
+        top: -30px;
       }
     }
     .baner_style_3 {

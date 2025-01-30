@@ -19,7 +19,6 @@ function App() {
       <Insights />
       <Contact />
       <Footer />
-      
     </div>
   );
 }

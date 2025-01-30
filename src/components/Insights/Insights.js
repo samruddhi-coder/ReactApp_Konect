@@ -1,4 +1,4 @@
-import React, { useEffect, useRef,useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import "./Insights.css";
 import Banner_image from "../../assets/banner/banner-img.jpg";
 import AIImg from "../../assets/banner/AI-thinking.jpg";
@@ -40,6 +40,7 @@ const CardSlider = () => {
     <>
       <section id="insights">
         <div className="slider">
+          <h3 align="center">Insights</h3>
           <div className="slides" ref={slidesRef}>
             <div className="slide">
               <div className="card">

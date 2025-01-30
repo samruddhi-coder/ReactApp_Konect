@@ -17,8 +17,7 @@ export default function Event() {
           </div>
         </div>
       </div>
-          <h1>Upcoming events of 2025</h1>
-         
+      <h1>Upcoming events of 2025</h1>
 
       <div className="eventdetail">
         <div className="detail">

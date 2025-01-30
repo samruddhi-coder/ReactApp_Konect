@@ -1,4 +1,7 @@
 #insights {
+  @media (max-width: 767px) {
+    padding: 3rem 0 0;
+  }
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   .slider {
@@ -20,12 +23,11 @@
   }
 
   .card {
-    padding-left: 4rem;
+    padding-left: 3rem;
     justify-content: center;
     align-items: center;
     height: 450px;
     background: url("../../assets/banner/banner.png") no-repeat center center;
-    animation: wave 3s linear infinite;
     color: #fff;
     font-size: 24px;
     border-radius: 8px;
@@ -41,6 +43,7 @@
     img {
       border-radius: 10px;
     }
+
     h3 {
       margin-top: 3rem;
       margin-bottom: 2rem;
@@ -53,6 +56,11 @@
       line-height: 2rem;
       color: var(--dark-layer-color);
     }
+
+    @media (max-width: 767px) {
+      width: 100%;
+      height: 100%;
+    }
   }
 
   .card::before {
@@ -64,6 +72,10 @@
     height: 100%;
     z-index: 1;
     border-radius: 8px;
+
+    @media (max-width: 500px) {
+      flex-direction: column-reverse;
+    }
   }
   button.prev,
   button.next {
